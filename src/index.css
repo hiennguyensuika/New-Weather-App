@@ -28,6 +28,12 @@ main {
   object-fit: contain;
 }
 
+.loading, .error-text {
+  font-size: 25px;
+  text-align: center;
+  color: darkblue;
+}
+
 .search-box{
 width: 87%;
 margin: 0 0 75px;
